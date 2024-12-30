@@ -5,28 +5,19 @@
 <h3>Things I code with</h3>
 <p>
   <img alt="Python" src="https://img.shields.io/badge/-Python-45b8d8?style=flat-square&logo=python&logoColor=white" />
+  <img alt="C++" src="https://img.shields.io/badge/-C++-007ACC?style=flat-square&logo=c%2B%2B&logoColor=white" />
   <img alt="Jira" src="https://img.shields.io/badge/-Jira-8DD6F9?style=flat-square&logo=jira&logoColor=white" /> 
   <img alt="Confluence" src="https://img.shields.io/badge/-Confluence-46a2f1?style=flat-square&logo=confluence&logoColor=white" />
-  <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
   <img alt="Google Cloud Platform" src="https://img.shields.io/badge/-Google_Cloud_Platform-1a73e8?style=flat-square&logo=google-cloud&logoColor=white" />
-  <img alt="Microsoft Azure" src="https://img.shields.io/badge/-Microsoft_Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white" />
-  <img alt="C++" src="https://img.shields.io/badge/-C++-007ACC?style=flat-square&logo=c%2B%2B&logoColor=white" />
+  <img alt="Microsoft Azure Platform" src="https://img.shields.io/badge/-Microsoft_Azure_Platform-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white" />
+  <img alt="meta" src="https://img.shields.io/badge/-Meta-764ABC??style=flat-square&logo=meta&logoColor=white" />
   <img alt="TensorFlow" src="https://img.shields.io/badge/-TensorFlow-5849BE?style=flat-square&logo=tensorflow&logoColor=white" />
   <img alt="PyTorch" src="https://img.shields.io/badge/-PyTorch-311C87?style=flat-square&logo=pytorch&logoColor=white" />
   <img alt="Keras" src="https://img.shields.io/badge/-keras-430098?style=flat-square&logo=keras&logoColor=white" />
-  <img alt="meta" src="https://img.shields.io/badge/-Meta-764ABC??style=flat-square&logo=meta&logoColor=white" />
   <img alt="scikitlearn" src="https://img.shields.io/badge/-scikitlearn-B7178C?style=flat-square&logo=scikitlearn&logoColor=white" />
-  <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" />
-  <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
-  <img alt="Styled Components" src="https://img.shields.io/badge/-Styled_Components-db7092?style=flat-square&logo=styled-components&logoColor=white" />
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img alt="NestJs" src="https://img.shields.io/badge/-NestJs-ea2845?style=flat-square&logo=nestjs&logoColor=white" />
   <img alt="Linux" src="https://img.shields.io/badge/-Linux-DD0031?style=flat-square&logo=linux&logoColor=white" />
-  <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img alt="Brave browser" src="https://img.shields.io/badge/-Brave_Browser-FB542B?style=flat-square&logo=brave&logoColor=white" />
-  <img alt="Rollup" src="https://img.shields.io/badge/-Rollup-EC4A3F?style=flat-square&logo=rollup.js&logoColor=white" />
-  <img alt="d3js" src="https://img.shields.io/badge/-D3.js-F9A03C?style=flat-square&logo=d3.js&logoColor=white" />
   <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7B93E?style=flat-square&logo=javascript&logoColor=white" />
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
