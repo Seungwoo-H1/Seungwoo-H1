@@ -6,9 +6,10 @@
 <p>
   <img alt="Python" src="https://img.shields.io/badge/-Python-45b8d8?style=flat-square&logo=python&logoColor=white" />
   <img alt="Jira" src="https://img.shields.io/badge/-Jira-8DD6F9?style=flat-square&logo=jira&logoColor=white" /> 
-  <img alt="Conflunce" src="https://img.shields.io/badge/-Conflunce-46a2f1?style=flat-square&logo=conflunce&logoColor=white" />
+  <img alt="Confluence" src="https://img.shields.io/badge/-Confluence-46a2f1?style=flat-square&logo=confluence&logoColor=white" />
   <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
   <img alt="Google Cloud Platform" src="https://img.shields.io/badge/-Google_Cloud_Platform-1a73e8?style=flat-square&logo=google-cloud&logoColor=white" />
+  <img alt="Microsoft Azure" src="https://img.shields.io/badge/-Microsoft_Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white" />
   <img alt="C++" src="https://img.shields.io/badge/-C++-007ACC?style=flat-square&logo=C++&logoColor=white" />
   <img alt="TensorFlow" src="https://img.shields.io/badge/-TensorFlow-5849BE?style=flat-square&logo=tensorflow&logoColor=white" />
   <img alt="PyTorch" src="https://img.shields.io/badge/-PyTorch%20GraphQL-311C87?style=flat-square&logo=pytorch&logoColor=white" />
