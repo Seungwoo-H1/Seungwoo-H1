@@ -15,7 +15,7 @@
   <img alt="PyTorch" src="https://img.shields.io/badge/-PyTorch-311C87?style=flat-square&logo=pytorch&logoColor=white" />
   <img alt="Keras" src="https://img.shields.io/badge/-keras-430098?style=flat-square&logo=keras&logoColor=white" />
   <img alt="meta" src="https://img.shields.io/badge/-Meta-764ABC??style=flat-square&logo=meta&logoColor=white" />
-  <img alt="Scikit-learn" src="https://img.shields.io/badge/-Scikit-learn-B7178C?style=flat-square&logo=scikit-learn&logoColor=white" />
+  <img alt="scikitlearn" src="https://img.shields.io/badge/-scikitlearn-B7178C?style=flat-square&logo=scikitlearn&logoColor=white" />
   <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" />
   <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
   <img alt="Styled Components" src="https://img.shields.io/badge/-Styled_Components-db7092?style=flat-square&logo=styled-components&logoColor=white" />
