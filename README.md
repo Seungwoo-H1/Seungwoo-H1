@@ -22,7 +22,7 @@
   <img alt="Github" src="https://img.shields.io/badge/-Github-13aa52?style=flat-square&logo=github&logoColor=white" />
   <img alt="githubcopilot" src="https://img.shields.io/badge/-githubcopilot-43853d?style=flat-square&logo=githubcopilot&logoColor=white" />
 </p>
-<h3>Open source projects</h3>
+<h3>Recent projects</h3>
 <table>
   <thead align="center">
     <tr border: none;>
@@ -35,7 +35,7 @@
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://github.com/Seungwoo-H1/Scouter_PJ"><b>Scouter Project</b></a></td>
+      <td><a href="https://github.com/Seungwoo-H1/Scouter_PJ"><b>scouter project</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/Seungwoo-H1/Scouter_PJ?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/Seungwoo-H1/Scouter_PJ?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/Seungwoo-H1/Scouter_PJ?style=flat-square&labelColor=343b41"/></td>
@@ -59,6 +59,7 @@
 	  -->
   </tbody>
 </table>
+<!--
 <h3>My latest posts</h3>
 <ul>
   <li><a href="https://medium.com/better-programming/create-your-first-ethereum-smart-contract-with-remix-ide-667e46e81901"><b><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/237/fire_1f525.png" width="20" alt="new" /> Create Your First Ethereum Smart Contract With Remix IDE</b></a><br/><i>Build a Blockchain-powered chat from your browser!.</i></li>
@@ -68,6 +69,7 @@
   <li><a href="https://medium.com/better-programming/how-to-take-care-of-your-personal-branding-as-a-programmer-2d3aeba56cb9"><b>How to Take Care of Your Personal Branding as a Programmer</b></a><br/><i>It’s more than just refreshing your resume</i></li>
   <li><a href="https://medium.com/better-programming/8-new-features-shipping-with-es2020-7a2721f710fb"><b>7 New Features Shipping With ES2020</b></a><br/><i>GlobalThis, optional chaining, private fields in classes, the nullish coalescing operator, and more</i></li>
 </ul>
+-->
 <h3>Where to find me</h3>
 <p><a href="https://github.com/Seungwoo-H1" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://www.linkedin.com/in/seungwoo-hong-8b02a0320" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://www.instagram.com/climbing._.oo/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1024px-Instagram_logo_2016.svg.png" width="20"/> @climbing._.oo</a>
 </p>
