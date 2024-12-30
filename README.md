@@ -10,9 +10,9 @@
   <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
   <img alt="Google Cloud Platform" src="https://img.shields.io/badge/-Google_Cloud_Platform-1a73e8?style=flat-square&logo=google-cloud&logoColor=white" />
   <img alt="Microsoft Azure" src="https://img.shields.io/badge/-Microsoft_Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white" />
-  <img alt="C++" src="https://img.shields.io/badge/-C++-007ACC?style=flat-square&logo=C++&logoColor=white" />
+  <img alt="C++" src="https://img.shields.io/badge/-C++-007ACC?style=flat-square&logo=c%2B%2B&logoColor=white" />
   <img alt="TensorFlow" src="https://img.shields.io/badge/-TensorFlow-5849BE?style=flat-square&logo=tensorflow&logoColor=white" />
-  <img alt="PyTorch" src="https://img.shields.io/badge/-PyTorch%20GraphQL-311C87?style=flat-square&logo=pytorch&logoColor=white" />
+  <img alt="PyTorch" src="https://img.shields.io/badge/-PyTorch-311C87?style=flat-square&logo=pytorch&logoColor=white" />
   <img alt="Keras" src="https://img.shields.io/badge/-keras-430098?style=flat-square&logo=keras&logoColor=white" />
   <img alt="meta" src="https://img.shields.io/badge/-Meta-764ABC??style=flat-square&logo=meta&logoColor=white" />
   <img alt="Scikit-learn" src="https://img.shields.io/badge/-Scikit-learn-B7178C?style=flat-square&logo=scikit-learn&logoColor=white" />
