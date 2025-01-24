@@ -48,15 +48,14 @@
       <td><img alt="Issues" src="https://img.shields.io/github/issues/Seungwoo-H1/Skindiagnosis?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/Seungwoo-H1/Skindiagnosis?style=flat-square&labelColor=343b41"/></td>
     </tr>
-	  <!--
-    <tr>
-      <td><a href="https://github.com/thmsgbrt/nodejs-typescript-express-apollo-graphql-starter"><b>NodeJs Express TypeScript GraphQL Starter</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/thmsgbrt/nodejs-typescript-express-apollo-graphql-starter?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/thmsgbrt/nodejs-typescript-express-apollo-graphql-starter?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/thmsgbrt/nodejs-typescript-express-apollo-graphql-starter?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/thmsgbrt/nodejs-typescript-express-apollo-graphql-starter?style=flat-square&labelColor=343b41"/></td>
+	 <tr>
+      <td><a href="https://github.com/Seungwoo-H1/FOOTTRAFFICREPORT"><b>AI CCTV project</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/Seungwoo-H1/FOOTTRAFFICREPORT?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/Seungwoo-H1/FOOTTRAFFICREPORT?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/Seungwoo-H1/FOOTTRAFFICREPORT?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/Seungwoo-H1/FOOTTRAFFICREPORT?style=flat-square&labelColor=343b41"/></td>
     </tr>
-	  -->
+	
   </tbody>
 </table>
 <!--
