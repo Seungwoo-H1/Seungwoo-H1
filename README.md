@@ -69,6 +69,38 @@
   <li><a href="https://medium.com/better-programming/8-new-features-shipping-with-es2020-7a2721f710fb"><b>7 New Features Shipping With ES2020</b></a><br/><i>GlobalThis, optional chaining, private fields in classes, the nullish coalescing operator, and more</i></li>
 </ul>
 -->
+<h3>Dacon</h3>
+<table style="width: 80%; border: none; margin: auto;">
+    <tr style="border: none;">
+      <td style="width: 50%; text-align: center; border: none;" align="center">
+        <a href="https://dacon.io/myprofile/516971/competition">
+          <img src="https://cdn-icons-png.flaticon.com/512/179/179249.png" width="80" alt="Gold Tier"/>
+        </a>
+        <br>
+        <strong>Overall Rank: 45 of 142,645</strong> <br> (Top 0.13%)
+      </td>
+      <td style="width: 50%; text-align: left; border: none; padding-left: 20px;">
+        <h3>Key Achievements</h3>
+        <p>
+          🥇 <strong>Top 1% Finishes: 1 times</strong><br>
+          🏅 <strong>Top 4% Finishes: 3 times</strong><br>
+          🎖️ <strong>Top 10% Finishes: 1 time</strong><br>
+          👥 <strong>Team Competitions: 13 times</strong><br>
+        </p>
+      </td>
+    </tr>
+  </table>
+  <tbody>
+      <tr>
+      <td align="center">2025.10 ~ 2025.11</td>
+      <td align="center"><a href="https://dacon.io/competitions/official/236607/overview/description">운수종사자 인지적 특성 데이터를 활용한 교통사고 위험 예측 AI 경진대회</a></td>
+      <td align="center">운수종사자 인지적 특성 데이터를 활용한 교통사고 위험 예측 AI 경진대회</td>
+      <td align="center"><b>61 / 1597</b></td>
+      <td align="center"><a href="https://github.com/Seungwoo-H1/traffic-accident-risk-ai">코드 보기</a></td>
+    </tr>
+</tbody>
+</table>
+</details> 
 <h3>Where to find me</h3>
 <p><a href="https://github.com/Seungwoo-H1" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://www.linkedin.com/in/seungwoo-hong-8b02a0320" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://www.instagram.com/climbing._.oo/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1024px-Instagram_logo_2016.svg.png" width="20"/> @climbing._.oo</a>
 </p>
