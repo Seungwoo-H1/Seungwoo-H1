@@ -22,6 +22,8 @@
   <img alt="Github" src="https://img.shields.io/badge/-Github-13aa52?style=flat-square&logo=github&logoColor=white" />
   <img alt="githubcopilot" src="https://img.shields.io/badge/-githubcopilot-43853d?style=flat-square&logo=githubcopilot&logoColor=white" />
 </p>
+<br>
+
 <h3>Recent projects</h3>
 <table>
   <thead align="center">
@@ -69,6 +71,8 @@
   <li><a href="https://medium.com/better-programming/8-new-features-shipping-with-es2020-7a2721f710fb"><b>7 New Features Shipping With ES2020</b></a><br/><i>GlobalThis, optional chaining, private fields in classes, the nullish coalescing operator, and more</i></li>
 </ul>
 -->
+<br>
+
 <h3>Dacon</h3>
 <table style="width: 80%; border: none; margin: auto;">
     <tr style="border: none;">
@@ -77,19 +81,30 @@
           <img src="https://cdn-icons-png.flaticon.com/512/179/179249.png" width="80" alt="Gold Tier"/>
         </a>
         <br>
-        <strong>Overall Rank: 45 of 142,645</strong> <br> (Top 0.13%)
+        <strong>Overall Rank: - of 142,645</strong> <br>
       </td>
       <td style="width: 50%; text-align: left; border: none; padding-left: 20px;">
         <h3>Key Achievements</h3>
         <p>
-          🥇 <strong>Top 1% Finishes: 1 times</strong><br>
-          🏅 <strong>Top 4% Finishes: 3 times</strong><br>
-          🎖️ <strong>Top 10% Finishes: 1 time</strong><br>
-          👥 <strong>Team Competitions: 13 times</strong><br>
+          🥇 <strong>Top 1% Finishes: 0 times</strong><br>
+          🏅 <strong>Top 4% Finishes: 0 times</strong><br>
+          🎖️ <strong>Top 10% Finishes: 0 time</strong><br>
+          👥 <strong>Team Competitions: 0 times</strong><br>
         </p>
       </td>
     </tr>
   </table>
+
+  <table width="100%">
+  <thead>
+    <tr>
+      <th align="center">기간</th>
+      <th align="center">대회명</th>
+      <th align="center">분야</th>
+      <th align="center">성적 (순위/참가자)</th>
+      <th align="center">코드 공유</th>
+    </tr>
+  </thead>
   <tbody>
       <tr>
       <td align="center">2025.10 ~ 2025.11</td>
