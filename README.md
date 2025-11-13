@@ -73,8 +73,6 @@
 -->
 <br>
 
-<details open>
-<summary><strong>데이콘 주요 실적 (Dacon Completed)</strong></summary>
 <h3>Dacon</h3>
 <table style="width: 80%; border: none; margin: auto;">
     <tr style="border: none;">
@@ -97,6 +95,8 @@
     </tr>
   </table>
 
+<details open>
+<summary><strong>데이콘 주요 실적 (Dacon Completed)</strong></summary>
   <table width="100%">
   <thead>
     <tr>
