@@ -112,7 +112,7 @@
       <td align="center">2025.10 ~ 2025.11</td>
       <td align="center"><a href="https://dacon.io/competitions/official/236607/overview/description">운수종사자 인지적 특성 데이터를 활용한 교통사고 위험 예측 AI 경진대회</a></td>
       <td align="center">운수종사자 인지적 특성 데이터를 활용한 교통사고 위험 예측 AI 경진대회</td>
-      <td align="center"><b>61 / 1597</b></td>
+      <td align="center"><b>60 / 1597</b></td>
       <td align="center"><a href="https://github.com/Seungwoo-H1/traffic-accident-risk-ai">코드 보기</a></td>
     </tr>
 </tbody>
